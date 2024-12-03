@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="DataSource2">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=KRISHNA\sqlexpress;Initial Catalog=SagarDB</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>b07e74ed-692b-416b-8266-9b4709a223df</DataSourceID>
+</RptDataSource>

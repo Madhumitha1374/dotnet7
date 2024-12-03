@@ -1,0 +1,15 @@
+D:\DotNetWorking\RoutingEvents\RoutingEvents\bin\Debug\RoutingEvents.exe.config
+D:\DotNetWorking\RoutingEvents\RoutingEvents\bin\Debug\RoutingEvents.exe
+D:\DotNetWorking\RoutingEvents\RoutingEvents\bin\Debug\RoutingEvents.pdb
+D:\DotNetWorking\RoutingEvents\RoutingEvents\obj\Debug\RoutingEvents.csproj.AssemblyReference.cache
+D:\DotNetWorking\RoutingEvents\RoutingEvents\obj\Debug\MainWindow.g.cs
+D:\DotNetWorking\RoutingEvents\RoutingEvents\obj\Debug\App.g.cs
+D:\DotNetWorking\RoutingEvents\RoutingEvents\obj\Debug\RoutingEvents_MarkupCompile.cache
+D:\DotNetWorking\RoutingEvents\RoutingEvents\obj\Debug\RoutingEvents_MarkupCompile.lref
+D:\DotNetWorking\RoutingEvents\RoutingEvents\obj\Debug\MainWindow.baml
+D:\DotNetWorking\RoutingEvents\RoutingEvents\obj\Debug\RoutingEvents.g.resources
+D:\DotNetWorking\RoutingEvents\RoutingEvents\obj\Debug\RoutingEvents.Properties.Resources.resources
+D:\DotNetWorking\RoutingEvents\RoutingEvents\obj\Debug\RoutingEvents.csproj.GenerateResource.cache
+D:\DotNetWorking\RoutingEvents\RoutingEvents\obj\Debug\RoutingEvents.csproj.CoreCompileInputs.cache
+D:\DotNetWorking\RoutingEvents\RoutingEvents\obj\Debug\RoutingEvents.exe
+D:\DotNetWorking\RoutingEvents\RoutingEvents\obj\Debug\RoutingEvents.pdb
